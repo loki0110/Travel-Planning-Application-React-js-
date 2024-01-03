@@ -1,0 +1,26 @@
+.pix {
+   height: 600px;
+   background: url('https://th.bing.com/th/id/R.c4dc9987b344fc4c2340de9b0722811e?rik=rzqa5tnkGrP6Wg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fHD-World-Travel-Desktop-Background.jpg&ehk=60mu9TPugnh12tUiz6SyEe%2brVNlWp1FaEu5OMf6oIig%3d&risl=&pid=ImgRaw&r=0') no-repeat center center/cover;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+   justify-content: flex-end;
+   padding-bottom: 320px;
+   margin-left: 220px;
+   margin-right: 220px;
+   margin-bottom: 20px;
+   margin-top: 90px;
+}
+
+.inx {
+   margin-left: 220px;
+   margin-right: 220px;
+   font-size: 25px;
+}
+
+.kut {
+   margin-left: 220px;
+   margin-right: 220px;
+   font-size: 25px;
+}
